@@ -1,0 +1,35 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#homepage {
+    position: relative;
+    left: 300px;
+}
+
+#signup {
+    position: relative;
+    left: 300px;
+}
+
+#login {
+    position: relative;
+    left: 300px;
+}
+
+#projectstatus {
+    position: relative;
+    left: 300px;
+}
+
+#tasklayout {
+    position: relative;
+    left: 100px;
+}
+
+#taskforming {
+    position: relative;
+    left: 300px;
+}
